@@ -10,7 +10,7 @@
 ------------------------------------------------------------------------------------------------------- */
 import java.util.Scanner;
 
-public class NUmPattern {
+public class NumPattern {
     public static void main(String[] args) {
         int num=1;
         Scanner sc=new Scanner(System.in);
